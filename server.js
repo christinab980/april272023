@@ -6,7 +6,7 @@ const server = express();
 const cn = {
     host: 'localhost',
     port: 5432,
-    database: 'sept2022',
+    database: 'digitalCrafts',
     user: "christinabarron",
     password: ' ',
     allowExitOnIdle: true
