@@ -1,1 +1,1 @@
-CREATE DATABASE digitalCrafts; 
+CREATE DATABASE "digitalCrafts"; 
